@@ -1,0 +1,840 @@
+[
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542485519744,
+            "changeTime": 1542485519744,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542485519744,
+            "changeTime": 1542485519744,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542555129396,
+            "changeTime": 1542555129396,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542573992802,
+            "changeTime": 1542573992802,
+            "contentHash": "7759fbd58e900115a32133101164b4d7e9f78776",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542555191918,
+            "changeTime": 1542555191918,
+            "contentHash": "2d22af15a724a49dbd77a401c55b0c1489761322",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2050,
+            "modifiedTime": 1542555129303,
+            "changeTime": 1542555129303,
+            "contentHash": "b373fe74b3390257d92b67eb03e3dcac7f7282bc",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 386,
+            "modifiedTime": 1542555129310,
+            "changeTime": 1542555129310,
+            "contentHash": "472ae6f54d35237328ea05f13675341a86af5d7e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 357,
+            "modifiedTime": 1542555129320,
+            "changeTime": 1542555129320,
+            "contentHash": "0a4ca2be5487be4a173586522bf41d4f049c5ed5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 302,
+            "modifiedTime": 1542555129330,
+            "changeTime": 1542555129330,
+            "contentHash": "3aa2f8a93fac4dc61cd0c5780578ea9791519b1b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1542555129330,
+            "changeTime": 1542555129330,
+            "contentHash": "9acbdb90d14377c84305cbc7f2dd0239dc76cd4d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Camping_Item__c\\Camping_Item__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Camping_Item__c\\Camping_Item__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2030,
+            "modifiedTime": 1542555129350,
+            "changeTime": 1542555129350,
+            "contentHash": "fc972cc0bae20c3ed3a3d448e777d598eb19e6ec",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Camping_Item__c\\fields\\Packed__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Camping_Item__c\\fields\\Packed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1542555129360,
+            "changeTime": 1542555129360,
+            "contentHash": "de3ae6bf636b183d0d98ac6bba09c831b718a01c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Camping_Item__c\\fields\\Price__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Camping_Item__c\\fields\\Price__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 358,
+            "modifiedTime": 1542555129360,
+            "changeTime": 1542555129360,
+            "contentHash": "0d6ef6240b985c3d5480f53da45daa78a0b0277c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Camping_Item__c\\fields\\Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Camping_Item__c\\fields\\Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1542555129377,
+            "changeTime": 1542555129377,
+            "contentHash": "b5e1b2ac9fc00ab94dd6952da6e66e1ebcba3579",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\layouts\\Camping_Item__c-Camping Item Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\layouts\\Camping_Item__c-Camping Item Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2364,
+            "modifiedTime": 1542555129387,
+            "changeTime": 1542555129387,
+            "contentHash": "0a4e00a07c7af3d3cd204f758e4da81a56dc6b44",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2493,
+            "modifiedTime": 1542555129391,
+            "changeTime": 1542555129391,
+            "contentHash": "4ac379efff8c184612fe004b1a1efec73abcf30a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19298,
+            "modifiedTime": 1542556548326,
+            "changeTime": 1542556548326,
+            "contentHash": "5992bad22a68948c892487103eb7b5fcdf6e9aa1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542555129303,
+            "changeTime": 1542555129303,
+            "contentHash": "7e18244116415a1ea894bab3e1555215869b08f5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542555129344,
+            "changeTime": 1542555129344,
+            "contentHash": "95447a554bd4004855e262aeff44eef92c8eb343",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c\\fields",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Expense__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542555129330,
+            "changeTime": 1542555129330,
+            "contentHash": "36e0f8ce8d3855ac18e6a491d7d01518f3bb1ae3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Camping_Item__c",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Camping_Item__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542555129350,
+            "changeTime": 1542555129350,
+            "contentHash": "40c887785cf5353adea75e954d661c2b095466b1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Camping_Item__c\\fields",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\objects\\Camping_Item__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542555129370,
+            "changeTime": 1542555129370,
+            "contentHash": "8afa910de6f6d993027cc908a4ffb449f7de8124",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542555129390,
+            "changeTime": 1542555129390,
+            "contentHash": "72e330d9ad588adf8476e6e126dc1b5b26de4dd6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542556664625,
+            "changeTime": 1542556664625,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542563010335,
+            "changeTime": 1542563010335,
+            "contentHash": "e81c83dca61052decd0d501184d365b88b752b29",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542561161617,
+            "changeTime": 1542561161617,
+            "contentHash": "c3aa0aae3f426ba73fcb32074d1055b7bb03b103",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542561091531,
+            "changeTime": 1542561091531,
+            "contentHash": "0d95e2cdae4a0c82fff7bee3298c13d65364a207",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\camping.cmp",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\camping.cmp",
+            "isDirectory": false,
+            "size": 71,
+            "modifiedTime": 1542563351060,
+            "changeTime": 1542563351060,
+            "contentHash": "ba787fa71365b886b873587d8855d03417a0d984",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\camping.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\camping.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 239,
+            "modifiedTime": 1542563010277,
+            "changeTime": 1542563010277,
+            "contentHash": "683b58cd9897ca58ea78f1c3dc1074ee591c60e1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\camping.auradoc",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\camping.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1542563010334,
+            "changeTime": 1542561764888,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\camping.css",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\camping.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1542563010310,
+            "changeTime": 1542561764867,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\camping.svg",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\camping.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1542563010327,
+            "changeTime": 1542561764881,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\campingController.js",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\campingController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1542563010280,
+            "changeTime": 1542561764860,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\campingHelper.js",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\campingHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1542563010302,
+            "changeTime": 1542561764864,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\campingRenderer.js",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\campingRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1542563010318,
+            "changeTime": 1542561764876,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.auradoc",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1542561161616,
+            "changeTime": 1542561161616,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.cmp",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.cmp",
+            "isDirectory": false,
+            "size": 58,
+            "modifiedTime": 1542561569451,
+            "changeTime": 1542561569451,
+            "contentHash": "36e9b798e39fc58299024a1638cdb093195d7f64",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1542561161537,
+            "changeTime": 1542561161537,
+            "contentHash": "caa5ea6b73a7501526c30e88216d3c3c56a5857f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.css",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.css",
+            "isDirectory": false,
+            "size": 43,
+            "modifiedTime": 1542562059582,
+            "changeTime": 1542562059582,
+            "contentHash": "53041cdbc74d4e813d383ad57a16d849a29ad914",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.design",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1542561161620,
+            "changeTime": 1542561161620,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.svg",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeader.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1542561161614,
+            "changeTime": 1542561161614,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeaderController.js",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeaderController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1542561161603,
+            "changeTime": 1542561161603,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeaderHelper.js",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeaderHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1542561161606,
+            "changeTime": 1542561161606,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeaderRenderer.js",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingHeader\\campingHeaderRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1542561161611,
+            "changeTime": 1542561161611,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingList.auradoc",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1542561091531,
+            "changeTime": 1542561091531,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingList.cmp",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingList.cmp",
+            "isDirectory": false,
+            "size": 141,
+            "modifiedTime": 1542562466318,
+            "changeTime": 1542562466318,
+            "contentHash": "cc62f321642db5fb06d61e38672167bdd39b5391",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingList.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1542561091515,
+            "changeTime": 1542561091515,
+            "contentHash": "55d6dd14ed6137f95ff560234e8d65d62887f179",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingList.css",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingList.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1542561091523,
+            "changeTime": 1542561091523,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingList.design",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1542561091533,
+            "changeTime": 1542561091533,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingList.svg",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1542561091529,
+            "changeTime": 1542561091529,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingListController.js",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingListController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1542561091518,
+            "changeTime": 1542561091518,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingListHelper.js",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1542561091520,
+            "changeTime": 1542561091520,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingListRenderer.js",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingList\\campingListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1542561091527,
+            "changeTime": 1542561091527,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\camping.design",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\camping\\camping.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1542563010337,
+            "changeTime": 1542563010337,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1542573992836,
+            "changeTime": 1542573992836,
+            "contentHash": "055ed73443ba6d52eecadaa7a54e4d2f5a521faa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.auradoc",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1542573992835,
+            "changeTime": 1542573992835,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 503,
+            "modifiedTime": 1542576262086,
+            "changeTime": 1542576262086,
+            "contentHash": "2763faa9f92e6d76276000f1c790e1cb7625f99d"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1542573992817,
+            "changeTime": 1542573992817,
+            "contentHash": "65a6c7598b90930bbd21c54910b74887d10c2547",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.css",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1542573992826,
+            "changeTime": 1542573992826,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.design",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1542573992838,
+            "changeTime": 1542573992838,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.svg",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1542573992833,
+            "changeTime": 1542573992833,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItemController.js",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1542573992820,
+            "changeTime": 1542573992820,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItemHelper.js",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1542573992823,
+            "changeTime": 1542573992823,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItemRenderer.js",
+        {
+            "sourcePath": "C:\\Code\\LightningFrameworkTH\\force-app\\main\\default\\aura\\campingListItem\\campingListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1542573992830,
+            "changeTime": 1542573992830,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
