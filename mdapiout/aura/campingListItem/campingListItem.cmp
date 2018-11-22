@@ -3,7 +3,8 @@
         <lightning:formattedName value="{!v.item.Name}"/>
         <lightning:formattedNumber value="{!v.item.Price__c}" style="currency"/>
         <lightning:formattedNumber value="{!v.item.Quantity__c}" style="integer"/>
-        <lightning:input type="toggle"
+        <lightning:button label="Packed!" onclick="{!c.packItem}"></lightning:button>
+        <lightning:input disabled="false" type="toggle"
                         label="Packed?"
                         name="packed" 
                         checked="{!v.item.Packed__c}"/>

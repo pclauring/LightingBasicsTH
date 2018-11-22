@@ -3,6 +3,7 @@
   <types>
     <name>AuraDefinitionBundle</name>
     <members>camping</members>
+    <members>campingApp</members>
     <members>campingHeader</members>
     <members>campingList</members>
     <members>campingListItem</members>
