@@ -4,4 +4,25 @@
         <li>Bear Repellant</li>
         <li>Goat Food</li>
     </ol>
-</aura:component>	
+    <aura:attribute name="items" type="Camping_Item__c[]" />
+    <aura:attribute name="newItem" type="Camping_Item__c" default="{
+    'sObject': 'Camping_List__c'
+    , 'Name' : ''
+    , 'Price__c' : 0
+    , 'Quantity__c' : 0
+    , 'Packed__c' : false}" />
+    
+    <fieldset class="slds-box slds-theme--default slds-container--small">
+        <form class="slds-form--stacked">
+            <lightning:input aura:id="itemform" label="Item Name" name="Name" value="{!v.newItem.Name}" required="true" />
+
+            <lightning:input aura:id="itemform" label="Item Price" name="Price" min="0.1" formatter="currency" step="0.01"
+                value="{!v.newItem.Price__c}" messageWhenRangeUnderflow="Enter an amount that's at least $0.10." />
+
+            <lightning:input aura:id="itemform" label="Item Quantity" name="Quantity" min="0" formatter="number" step="1"
+                value="{!v.newItem.Quantity__c}" required="true" messageWhenRangeUnderflow="Enter an amount that's at least 0" />
+
+            <lightning:input type="checkbox" aura:id="itemform" label="Packed?" name="Packed" checked="{!v.newItem.Packed__c}" />
+        </form>
+    </fieldset>
+</aura:component>
