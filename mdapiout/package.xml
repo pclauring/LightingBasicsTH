@@ -9,6 +9,10 @@
     <members>campingListItem</members>
   </types>
   <types>
+    <name>ApexClass</name>
+    <members>CampingListController</members>
+  </types>
+  <types>
     <name>Layout</name>
     <members>Camping_Item__c-Camping Item Layout</members>
     <members>Expense__c-Expense Layout</members>
