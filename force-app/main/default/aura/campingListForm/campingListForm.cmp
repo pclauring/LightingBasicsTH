@@ -5,6 +5,7 @@
         , 'Price__c' : 0
         , 'Quantity__c' : 0
         , 'Packed__c' : false}" />
+    <aura:registerEvent name="addItem" type="c:addItemEvent"/>
     <fieldset class="slds-box slds-theme--default slds-container--small">
         <form class="slds-form--stacked">
             <lightning:input aura:id="itemform" label="Name" name="Name" value="{!v.newItem.Name}" required="true" />

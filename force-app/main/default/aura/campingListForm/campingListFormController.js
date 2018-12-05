@@ -9,7 +9,6 @@
             // Create the new items
             var newItem = component.get("v.newItem");
             helper.createItem(newItem, component);
-
         }
     }
 })

@@ -20,5 +20,11 @@
             }
         });
         $A.enqueueAction(action);
-    }
+    },
+
+    handleAddItem: function(component, event, helper) {
+        var newItem = event.getParam("item");
+        helper.createExpense(component, newItem);
+    },
+
 })
