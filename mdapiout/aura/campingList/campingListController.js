@@ -17,17 +17,23 @@
         $A.enqueueAction(action);
     },
 
-    clickCreateItem : function (component, event, helper) {
-        var validitem = component.find('itemform').reduce(function (validSoFar, inputCmp) {
-            // Displays error messages for invalid fields
-            inputCmp.showHelpMessageIfInvalid();
-            return validSoFar && inputCmp.get('v.validity').valid;
-        }, true);
-        if (validitem) {
-            // Create the new items
-            var newItem = component.get("v.newItem");
-            helper.createItem(newItem, component);
-
-        }
+    handleAddItem: function(component, event, helper) {
+        var newItem = event.getParam("item");
+      //  helper.createExpense(component, newItem); //need to create the call back to handle the new item event
+          var action = component.get("c.saveItem");
+        action.setParams({
+            "item": newItem
+        });
+        action.setCallback(this, function (response) {
+            var state = response.getState();
+            if (state === "SUCCESS") {
+                var items = component.get("v.items");
+                items.push(response.getReturnValue());
+                component.set("v.items", items);
+           
+            }
+        });
+        $A.enqueueAction(action);
     }
+
 })

@@ -2,10 +2,12 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <name>AuraDefinitionBundle</name>
+    <members>addItemEvent</members>
     <members>camping</members>
     <members>campingApp</members>
     <members>campingHeader</members>
     <members>campingList</members>
+    <members>campingListForm</members>
     <members>campingListItem</members>
   </types>
   <types>
